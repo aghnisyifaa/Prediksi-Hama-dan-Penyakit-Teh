@@ -1,1 +1,2 @@
 # Prediksi-Hama-dan-Penyakit-Teh
+Penerapan ekstraksi fitur GLCM dan klasifikasi gambar menggunakan CNN EfficientNet-B4 dalam mendeteksi penyakit pada daun teh yang memiliki tekstur beragam. Input pada penelitian ini berupa citra daun teh sehat, daun teh dengan penyakit Brown Blight dan daun teh dengan penyakit Helopeltis Antonii yang diambil dari PTPN VIII Cisaruni, Garut, Jawa Barat. Sedangkan outputnya adalah nama penyakit daun teh.
